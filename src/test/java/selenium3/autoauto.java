@@ -11,12 +11,12 @@ public class autoauto {
         String[][] data = {
 
                 // first test case (  existing email address.)
-                {"Mohamed", "Yehia","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
+                {"Mohamed", "Yehiadskjhdskjh","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
                 // Second test case (not matching password )
                 //hihihihihihihi
                 {"salma", "samy","014123679","troy_143@hotmail.com","131314Mm","131314MmK",""},
-                // Third test case (valid data with new email address )
-                {"Mo", "salah","01442443563","tarek_yehia@yahoo.com","12345Mm","12345Mm",""},
+                // Third test case (valid ddkjfhkjdshata with new email address )
+                {"Mo", "salah","0144244987539847533563","tarek_yehia@yahoo.com","12345Mm","12345Mm",""},
 
         };
 
