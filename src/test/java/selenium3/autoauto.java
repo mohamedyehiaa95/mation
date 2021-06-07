@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class autoaudfjjhtouy432 {
+public class autoauto {
     public static void main(String[] args) {
 
         String[][] data = {
@@ -20,7 +20,7 @@ public class autoaudfjjhtouy432 {
 
         };
 
-        Strin3g[] iterableData= {"firstname","lastname","phone","email","password","confirmpassword"};
+        String[] iterableData= {"firstname","lastname","phone","email","password","confirmpassword"};
         // open chrome driver and browse registeration page
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\a815201\\Downloads\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
