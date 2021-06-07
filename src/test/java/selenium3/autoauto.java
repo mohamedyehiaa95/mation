@@ -5,12 +5,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class autoaudfjjhtouy4 {
+public class autoaudfjjhtouy432 {
     public static void main(String[] args) {
 
         String[][] data = {
 
-                // first test case (  existing email address.)
+                // firster test case (  existing email address.)
                 {"Mohamed", "Yehiadskjhdskjh","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
                 // Second test case (not matching password )
                 //hihihihihihihi
@@ -20,7 +20,7 @@ public class autoaudfjjhtouy4 {
 
         };
 
-        String[] iterableData= {"firstname","lastname","phone","email","password","confirmpassword"};
+        Strin3g[] iterableData= {"firstname","lastname","phone","email","password","confirmpassword"};
         // open chrome driver and browse registeration page
         System.setProperty("webdriver.chrome.driver", "C:\\Users\\a815201\\Downloads\\chromedriver_win32\\chromedriver.exe");
         WebDriver driver=new ChromeDriver();
