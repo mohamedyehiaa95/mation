@@ -5,10 +5,10 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class auto14s12auto {
+public class autoauto {
     public static void main(String[] args) {
 
-        String[][] data = {
+        String[][]6 data = {
 
                 // firster test case (  existing email address.)
                 {"Mohamed", "Yehiadskjhdskjh","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
