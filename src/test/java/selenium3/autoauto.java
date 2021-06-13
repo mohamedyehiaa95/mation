@@ -8,10 +8,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class autoauto {
     public static void main(String[] args) {
 
-        String[][] data = {
+        String[][] dataayahan = {
 
                 // first test case (  existing email address.)
-                {"Mohamed", "Yehia","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
+                {"sdsawMohamed", "Yehia","01122620999","myeiha7@gmail.com","Y01234567","Y01234567",""},
                 // Second test case (not matching password )
                 //hihihihihihihi
                 {"salma", "samy","014123679","troy_143@hotmail.com","131314Mm","131314MmK",""},
